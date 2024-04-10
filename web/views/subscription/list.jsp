@@ -15,7 +15,7 @@
         <meta charset="UTF-8">
         <jsp:include page="/resources/layout/_css.jsp"/>
         <link rel="stylesheet" href="${ctx}/resources/css/datapicker/bootstrap-datepicker.css">
-        <title>My Purchased Items</title>
+        <title>My Subscription Items</title>
     </head>
     <body>
         <form method="get">

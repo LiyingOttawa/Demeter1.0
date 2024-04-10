@@ -21,7 +21,7 @@
         <form method="get">
             <!-- Filter form -->
         </form>
-        <h3>My Purchased Items</h3>
+        <h3>My Notification Items</h3>
         <div class="wrapper wrapper-content">
             <div class="row">
                 <div class="col-sm-12">
